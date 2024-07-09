@@ -25,3 +25,5 @@ This example is basic, it starts by evaluating what sort of states will be requi
 - [ ] Best practices in approaches to fetching data
 - [ ] Completion of example build
 - [ ] Documenting where to find api keys to test yourself
+- [ ] Theoretical information about what may happen in a design stage
+- [ ] Further Information about analytics, the best way to track information
